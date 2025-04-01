@@ -1,6 +1,3 @@
-Got it! Here's a clean, professional version of your README formatted for GitHub, without emojis:
-
----
 
 # Sudoku Solver
 
